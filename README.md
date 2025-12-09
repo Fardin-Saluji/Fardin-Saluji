@@ -1,6 +1,6 @@
 # Hi 👋, I'm Fardin Saluji
 
-🌟 **Beginner Web Developer | JavaScript Learner | MERN Stack Enthusiast**
+🌟 **Full Stack Web Developer | JavaScript Learner | MERN Stack Enthusiast**
 
 
 
